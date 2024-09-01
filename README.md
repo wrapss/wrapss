@@ -1,4 +1,4 @@
-# Hello, I'm Matthieu B! 👋 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, I'm Matthieu B! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=3178C6&size=24&lines=Welcome+to+my+GitHub+Profile!;Full-Stack+Developer;System+Administrator" />
