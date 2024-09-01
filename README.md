@@ -9,7 +9,7 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>   
   <a href="https://huggingface.co/wraps" target="_blank">
-    <img alt="Hugging Face" src="https://img.shields.io/badge/🤗%20Hugging%20Face-ffce00?style=for-the-badge&logo=huggingface&logoColor=black">
+    <img alt="Hugging Face" src="https://img.shields.io/badge/%20Hugging%20Face-ffce00?style=for-the-badge&logo=huggingface&logoColor=black">
   </a>
 </p>
 
